@@ -20,16 +20,10 @@ Los ejercicios están organizados por paquetes o carpetas y abarcan los siguient
 
 ## 🛠️ Tecnologías Utilizadas
 
-* **Lenguaje:** Java 17 o superior.
+* **Lenguaje:** Java.
 * **Entorno de Ejecución:** Java Runtime Environment (JRE) / Java Development Kit (JDK).
-* **IDE Recomendado:** IntelliJ IDEA, Eclipse o Visual Studio Code.
+* **IDE Recomendado:** Eclipse o Visual Studio Code.
 * **Gestor de Dependencias:** Estructura de proyecto estándar (opcionalmente preparado para Maven).
 
-## 📋 Requisitos Previos
 
-Para poder compilar y ejecutar estos ejercicios en tu máquina local, necesitas:
-
-1.  Tener instalado el **JDK (Java Development Kit)** versión 17 o superior.
-2.  Configurar la variable de entorno `JAVA_HOME` en tu sistema operativo.
-3.  Una terminal de comandos o un entorno de desarrollo (IDE).
 
